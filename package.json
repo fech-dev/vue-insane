@@ -1,0 +1,14 @@
+{
+  "name": "vue-insane",
+  "version": "1.0.0",
+  "description": "vue.js plugin for insane html sanitizer",
+  "main": "src/index.js",
+  "repository": "https://github.com/fech-dev/vue-insane.git",
+  "author": "Mameli Federico <federico_mameli@yahoo.com>",
+  "license": "MIT",
+  "keywords": ["vue", "html", "sanitizer", "insane", "html-sanitizer"],
+  "dependencies": {
+    "insane": "^2.6.2",
+    "lodash.merge": "^4.6.2"
+  }
+}
